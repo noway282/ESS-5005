@@ -60,33 +60,33 @@ html{
 }
 .europa {
     width: 100px;
-    position: absolute ; left: 50% ; top: 65%;
+    position: absolute ; left: 45% ; top: 68%;
 }
 .alumil{
     width: 100px;
-    position: absolute ; left: 50% ; top: 75%;
+    position: absolute ; left: 45% ; top: 78%;
 }
 .exalco{
     width: 100px;
-    position: absolute ; left: 50% ; top: 85%;
+    position: absolute ; left: 45% ; top: 88%;
 }
 .link1{
     height: 100px;
-    position: absolute ; left: 50% ; top: 71%;
+    position: absolute ; left: 45% ; top: 73%;
     color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .link2{
     height: 100px;
-    position: absolute ; left: 50% ; top: 83%;
+    position: absolute ; left: 45% ; top: 85%;
     color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .link3{
     height: 100px;
-    position: absolute ; left: 50% ; top: 93%;
+    position: absolute ; left: 45% ; top: 95%;
     color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
