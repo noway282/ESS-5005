@@ -27,17 +27,17 @@ html{
 }
 
 .content h1 {
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .content h2 {
-    font-size: 30px;
+    font-size: 28px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .content h3 {
-    font-size: 30px;
+    font-size: 28px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -46,9 +46,9 @@ html{
     font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 50%;
-    height: 200px;
+    height: 150px;
     position: absolute;
-    top: 38%;
+    top: 45%;
     transform: translateX(2%);
     color: #fff;
     overflow-x: hidden;
@@ -60,33 +60,33 @@ html{
 }
 .europa {
     width: 100px;
-    position: absolute ; left: 45% ; top: 65%;
+    position: absolute ; left: 50% ; top: 65%;
 }
 .alumil{
     width: 100px;
-    position: absolute ; left: 45% ; top: 75%;
+    position: absolute ; left: 50% ; top: 75%;
 }
 .exalco{
     width: 100px;
-    position: absolute ; left: 45% ; top: 85%;
+    position: absolute ; left: 50% ; top: 85%;
 }
 .link1{
     height: 100px;
-    position: absolute ; left: 45% ; top: 71%;
+    position: absolute ; left: 50% ; top: 71%;
     color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .link2{
     height: 100px;
-    position: absolute ; left: 45% ; top: 83%;
+    position: absolute ; left: 50% ; top: 83%;
     color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .link3{
     height: 100px;
-    position: absolute ; left: 45% ; top: 93%;
+    position: absolute ; left: 50% ; top: 93%;
     color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
